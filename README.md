@@ -21,11 +21,12 @@ Projeto prático desenvolvido durante a formação de Engenharia Front-End da **
 * `js/`: Scripts contendo toda a lógica do motor computacional do jogo e interações do DOM.
 * `index.html`: Estrutura semântica contendo as tags de entrada para os nomes dos competidores e o layout de blocos [source: 0.1.20, 5].
 * `README.md`: Documentação técnica, executiva e de negócios do projeto.
-  <img width="415" height="437" alt="jogo" src="https://github.com/user-attachments/assets/2d0ac588-db66-4d5f-b9eb-0fdfd4a865dd" />
-
+  
 ---
 
 ## 👤 Autor
 * **Eduardo Cruz**
 * LinkedIn: [eduardo-cruz777](https://linkedin.com)
 * Email: edufracruz@gmail.com
+---
+<img width="415" height="437" alt="jogo" src="https://github.com/user-attachments/assets/2d0ac588-db66-4d5f-b9eb-0fdfd4a865dd" />
