@@ -1,3 +1,4 @@
+<img width="415" height="437" alt="jogo" src="https://github.com/user-attachments/assets/3ffcd486-5a89-443d-a6c2-408b39f5a921" />
 # ❌ Jogo da Velha (Tic-Tac-Toe) - Lógica de Matrizes e Manipulação de Eventos no DOM
 
 ## 📌 Visão Geral do Projeto
